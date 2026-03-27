@@ -46,7 +46,6 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🛍️ [Fashion Recommendation System](https://github.com/shreyaa-1702) | Personalized clothing recommendations using reverse image search | Python, TensorFlow, ResNet, OpenCV |
 | 👁️ [Age & Gender Detection](https://github.com/shreyaa-1702) | Real-time face-based age group and gender classification | OpenCV, TensorFlow, Caffe |
 | 📉 [Customer Churn Prediction](https://github.com/shreyaa-1702) | Churn prediction using Random Forest & XGBoost with 87% accuracy | Python, Scikit-Learn, Power BI |
 | 🏬 [Customer Segmentation](https://github.com/shreyaa-1702) | K-Means clustering to segment mall customers by income & spending | Python, Scikit-Learn, Matplotlib |
