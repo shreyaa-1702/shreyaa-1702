@@ -44,14 +44,17 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 👁️ [Age & Gender Detection](https://github.com/shreyaa-1702) | Real-time face-based age group and gender classification | OpenCV, TensorFlow, Caffe |
-| 📉 [Customer Churn Prediction](https://github.com/shreyaa-1702) | Churn prediction using Random Forest & XGBoost with 87% accuracy | Python, Scikit-Learn, Power BI |
-| 🏬 [Customer Segmentation](https://github.com/shreyaa-1702) | K-Means clustering to segment mall customers by income & spending | Python, Scikit-Learn, Matplotlib |
-| 🏦 [Data Warehouse & Analytics](https://github.com/shreyaa-1702) | End-to-end data warehouse using Medallion Architecture (Bronze-Gold) | SQL Server, ETL, Star Schema |
-| 🔍 [Object Detection](https://github.com/shreyaa-1702) | Real-time object detection using Faster R-CNN & SSD MobileNet | TensorFlow Hub, Python |
-| 🏀 [NBA Playoff Prediction](https://github.com/shreyaa-1702) | Linear Regression model to predict playoff performance factors | Python, Scikit-Learn, Pandas |
+| Project                                    | Description                                                                                                                                                                                                                                                                   | Tech Stack                                        |
+| ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
+| 🌍 Geospatial Data Lake Ingestion Pipeline | Production-grade geospatial data engineering pipeline that transforms raw location datasets into Google Street View 360° panoramas through geocoding, panorama discovery, tile downloading, image stitching, metadata generation, fault tolerance, and concurrent processing. | Python, OpenCV, Geospatial APIs, Data Engineering |
+| 🔄 MLOps Customer Churn Pipeline           | End-to-end MLOps pipeline for customer churn prediction with automated data validation, model training, experiment tracking, deployment, monitoring, and retraining workflows.                                                                                                | Python, Scikit-Learn, MLflow, Docker, CI/CD       |
+| 👁️ Age & Gender Detection                 | Real-time face-based age group and gender classification using deep learning models.                                                                                                                                                                                          | OpenCV, TensorFlow, Caffe                         |
+| 📉 Customer Churn Prediction               | Predicts customer churn using Random Forest and XGBoost models with high predictive performance and business insights dashboards.                                                                                                                                             | Python, Scikit-Learn, Power BI                    |
+| 🏬 Customer Segmentation                   | K-Means clustering to segment customers based on income and spending behavior for targeted marketing.                                                                                                                                                                         | Python, Scikit-Learn, Matplotlib                  |
+| 🏦 Data Warehouse & Analytics              | End-to-end data warehouse implementation using Medallion Architecture, ETL pipelines, and dimensional modeling.                                                                                                                                                               | SQL Server, ETL, Star Schema                      |
+| 🔍 Object Detection                        | Real-time object detection using Faster R-CNN and SSD MobileNet architectures.                                                                                                                                                                                                | TensorFlow Hub, Python                            |
+| 🏀 NBA Playoff Prediction                  | Predictive analytics model identifying factors influencing NBA playoff performance.                                                                                                                                                                                           | Python, Scikit-Learn, Pandas                      |
+
 
 ---
 
